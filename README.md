@@ -8,8 +8,6 @@
 5. Gehe einen Ordner zurück und starte per z.B. CMD mit **"node bot.js"** den BOT.
 6. Viel Spaß!
 
-**Hosting: Falls Ich euch den BOT hosten soll, tretet meinem Discord bei und erstellt ein Ticket im Support Channel** 
-
 BOT Prefix:<br>
 **;**
 
@@ -18,3 +16,4 @@ Alle Befehle:<br>
 ;level - Zeigt das aktuelle Level<br>
 ;lvlchannel **Channel ID** - Legt den Channel fest in dem die LevelUP Nachrichten gesendet werden sollen<br>
 
+**Hosting: Falls Ich euch den BOT hosten soll, tretet meinem Discord bei und erstellt ein Ticket im Support Channel** 
